@@ -1,0 +1,9 @@
+{
+  "name": "NodeThreads",
+  "version": "1.0.0",
+  "description": "A threading experiemnt in NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/vanbujm/NodeThreads.git",
+  "author": "JVB",
+  "license": "MIT"
+}
